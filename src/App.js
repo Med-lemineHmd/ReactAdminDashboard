@@ -34,7 +34,7 @@ const App = () => {
           {/* Bottom Settings  */}
           <div className="fixed right-4 bottom-4" style={{ zIndex: "1000" }}>
             <button
-              data-tip="React-tooltip"
+              data-tip="Settings"
               type="button"
               className="text-3xl p-3 text-white hover:drop-shadow-xl hover:bg-light-gray"
               style={{ background: "var(--blue-color)", borderRadius: "50%" }}
