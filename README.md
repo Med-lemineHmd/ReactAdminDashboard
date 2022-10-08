@@ -39,5 +39,5 @@ npm start
 ### Copyright 
 <p align="center"><img src="https://avatars.githubusercontent.com/u/76164295?v=4" width="35" height="35"/></p>
 <p align="center">
-<sub>By <a href="https://github.com/Med-lemineHmd">Mo lemine Hamdinou inspired by JS Mastery</a></sub>
+<sub>By <a href="https://github.com/Med-lemineHmd">Mo lemine Hamdinou</a> inspired by JS Mastery</sub>
 </p>
