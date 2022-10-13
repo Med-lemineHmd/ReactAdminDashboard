@@ -31,7 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 /* First, Install the needed packages */
 npm install
 
-/* Then start both Node and React */
+/* Then start React */
 npm start
 
 ```
